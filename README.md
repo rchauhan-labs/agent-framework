@@ -1,4 +1,4 @@
-🧠 Agent Framework
+# Learn Agent Framework
 
 An experimental journey into building and understanding agent frameworks — from basic concepts to advanced prototypes.
 
