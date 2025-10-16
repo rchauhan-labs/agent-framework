@@ -27,7 +27,6 @@ string userInput = Console.ReadLine() ?? string.Empty;
 
 Console.ForegroundColor = ConsoleColor.Green;
 
-string finalResponse = String.Empty;
 var result = await spellCheckerAgent.RunAsync(userInput);
 
 Console.WriteLine("SpellChecker Agent Output : " + result.Text);
