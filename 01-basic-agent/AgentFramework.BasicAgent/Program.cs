@@ -5,15 +5,14 @@ using OpenAI;
 using OpenAI.Chat;
 using System.ClientModel;
 
-Env.Load();
+Env.Load(); //Loads the .env file
 var credential = System.Environment.GetEnvironmentVariable("GITHUB_TOKEN");
 
 IChatClient chatClient = new ChatClient(
             "openai/gpt-4o-mini",
             new ApiKeyCredential(credential),
             new OpenAIClientOptions { Endpoint = new Uri("https://models.github.ai/inference") }
-            )
-            .AsIChatClient();
+            ).AsIChatClient();
 
 AIAgent spellCheckerAgent = new ChatClientAgent(chatClient,
     new ChatClientAgentOptions
