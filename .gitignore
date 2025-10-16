@@ -1,0 +1,50 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+# Entity Framework
+*_i.c
+*_p.c
+*_i.h
+*.dbmdl
+
+# Rider / Resharper / JetBrains
+.idea/
+*.DotSettings.user
+_ReSharper*/
+
+# VS Code (if you open it there sometimes)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

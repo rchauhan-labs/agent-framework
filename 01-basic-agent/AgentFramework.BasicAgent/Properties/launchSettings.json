@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgentFramework.BasicAgent": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
