@@ -1,26 +1,32 @@
-# Learn Agent Framework
+# Mastering Microsoft Agent Frameworks – A Hands-On Approach 🚀
 
-An experimental journey into building and understanding agent frameworks — from basic concepts to advanced prototypes.
+This repository contains **hands-on projects exploring different aspects of agentic AI** using Microsoft Agent Framework — from simple agents to multi-agent orchestration and coordination.
 
-🚀 Overview
+---
 
-This repository contains hands-on project exploring different aspects of agentic AI — from simple agents to multi-agent orchestration.
+## 📂 Structure
 
-📂 Structure
-/01-basic-agent/
-...
+- `/01-basic-agent/` …  
 
-🧩 Goals
+---
 
-Understand how agent frameworks are designed
-Build and test my own agentic components
-Experiment with coordination, memory, and planning mechanisms
+## 🎯 Goals
 
-⚙️ Tech Stack (as you go)
+- Understand how agent frameworks are designed  
+- Build and test custom agent components  
+- Experiment with coordination, memory, and planning mechanisms  
 
-C#
-Microsoft Agent Framework
+---
 
-📖 Notes
+## ⚙️ Tech Stack
 
-This repo evolves as I learn — expect messy experiments, refactors, and breakthroughs.
+- **C#**  
+- **Microsoft Agent Framework**  
+
+---
+
+## 📖 Notes
+
+This repo evolves as I learn — expect **messy experiments, refactors, and breakthroughs**. Practical examples are included wherever appropriate.
+
+---
