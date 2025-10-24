@@ -5,7 +5,7 @@ This repository contains **hands-on projects exploring different aspects of agen
 ## 📂 Structure
 
 - `/01-basic-agent/` …
-  
+
 ## 🎯 Goals
 
 - Understand how agent frameworks are designed  
