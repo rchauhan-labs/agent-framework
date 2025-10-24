@@ -1,5 +1,6 @@
 # Mastering Microsoft Agent Framework 🚀
 ![Master Microsoft Agent Framework](images/welcome-microsoft-agent-framework.PNG)
+
 This repository contains **hands-on projects exploring different aspects of agentic AI** using Microsoft Agent Framework — from simple agents to multi-agent orchestration and coordination.
 
 ## 📂 Structure
