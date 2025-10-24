@@ -20,4 +20,4 @@ This repository contains **hands-on projects exploring different aspects of agen
 
 ## 📖 Notes
 
-This repo evolves as I learn — expect **messy experiments, refactors, and breakthroughs**. Practical examples are included wherever appropriate.
+This repo evolves as I learn - expect **messy experiments, refactors, and breakthroughs**. Practical examples are included wherever appropriate.
