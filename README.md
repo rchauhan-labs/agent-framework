@@ -1,4 +1,4 @@
-# Mastering Microsoft Agent Frameworks – A Hands-On Approach 🚀
+# Mastering Microsoft Agent Framework 🚀
 
 This repository contains **hands-on projects exploring different aspects of agentic AI** using Microsoft Agent Framework — from simple agents to multi-agent orchestration and coordination.
 
